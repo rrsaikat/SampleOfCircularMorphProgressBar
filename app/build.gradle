@@ -33,5 +33,5 @@ dependencies {
 
 
     //add this line
-    implementation 'com.github.rrsaikat:CircularMorphProgressBar:0.1.0'
+    implementation 'com.github.rrsaikat:CircularMorphProgressBar:0.1.1'
 }
