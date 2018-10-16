@@ -7,7 +7,8 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.rezwan.pstu.cse12.view.CircularMorphLayout;
+
+import rezwan.pstu.cse12.view.CircularMorphLayout;
 
 public class MainActivity extends AppCompatActivity {
 

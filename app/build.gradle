@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "rezwan.pstu.cse12.samples"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -33,5 +33,6 @@ dependencies {
 
 
     //add this line
-    implementation 'com.github.rrsaikat:CircularMorphProgressBar:0.1.1'
+    implementation 'com.github.rrsaikat:CircularMorphProgressBarLibrary:0.1.0'
+
 }

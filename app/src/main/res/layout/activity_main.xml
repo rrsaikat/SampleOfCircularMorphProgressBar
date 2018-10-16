@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
 
-    <com.rezwan.pstu.cse12.view.CircularMorphLayout
+    <rezwan.pstu.cse12.view.CircularMorphLayout
         android:id="@+id/cml_proceed_layout"
         android:layout_width="match_parent"
         android:layout_height="48dp"
@@ -28,7 +28,7 @@
             android:textAllCaps="true"
             android:textColor="@android:color/white"
             />
-    </com.rezwan.pstu.cse12.view.CircularMorphLayout>
+    </rezwan.pstu.cse12.view.CircularMorphLayout>
 
     <ProgressBar
         android:id="@+id/progressBar"
